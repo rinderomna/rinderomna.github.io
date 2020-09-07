@@ -1,5 +1,5 @@
 .Menu{
-	width: 1800px;
+	width: 100%;
 }
 div.Menu{
 	background-color: lightblue;
@@ -22,6 +22,7 @@ div.Menu{
 	font-family: Courier New, monospaceL;
 }
 div.Menu table{
+	width: 80%
 	border-color: black;
 	border-style: solid;
 }
