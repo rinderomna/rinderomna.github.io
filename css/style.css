@@ -1,0 +1,27 @@
+.Menu{
+	width: 1800px;
+}
+div.Menu{
+	background-color: lightblue;
+	border-style: solid;
+	border-width: thick;
+	border-color: darkblue;
+}
+.Menu a{
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 45px;
+	color: darkred;
+	border-style: inset;
+	border-width: thick;
+}
+.Menu td{
+	background: gray;
+	padding: 10px 15px;
+	text-align: center;
+	font-family: Courier New, monospaceL;
+}
+div.Menu table{
+	border-color: black;
+	border-style: solid;
+}
